@@ -10,8 +10,8 @@
 
 - 🎓 Software Engineering student focused on building solid, scalable solutions.
 - 🔍 Passionate about algorithms, data structures, and system design.
-- 📱 I love learning new technologies every day and I constantly develop personal apps to strengthen my backend and database skills.
-- 💡 I firmly believe that pressure and mistakes are opportunities for growth — every challenge makes me a better software developer.
+- 📱I'm passionate about learning new technologies every day, and I continuously build personal projects to sharpen my backend and database skills.
+- 💡I firmly believe that pressure and mistakes are opportunities for growth — every challenge shapes me into a better software developer.
 
 ---
 
