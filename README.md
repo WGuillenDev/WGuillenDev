@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilberth Guillén Aguilar</h1>
-<h3 align="center">Software Engineering Student | Passionate about building things</h3>
+<h3 align="center">Software Engineering Student | Junior Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=500&lines=Backend+%26+Systems+Developer+in+progress+⚙️;Always+learning%2C+always+building+🔧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
