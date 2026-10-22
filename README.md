@@ -1,56 +1,66 @@
-<h1 align="center">Hi 👋, I'm Wilberth Guillén Aguilar</h1>
-<h3 align="center">Software Engineering Student | Junior Developer</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Future+Full+Stack+Developer+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Future+Full+Stack+Developer;Addicted+to+Coding!&font=Fira%20Code&color=00BFFF&center=true&width=420&height=60" alt="Typing SVG" />
+</h1>
 
----
+<img align="right" width="260" src="./assets/baymax.webp" alt="Baymax" />
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Wilberth+Guill%C3%A9n+Aguilar!;Nice+to+meet+you!&font=Fira%20Code&weight=600&size=22&color=58A6FF&width=460&height=45&pause=1500" alt="Hi, I'm Wilberth Guillén Aguilar!" />
+
+**Software Engineering Student | Junior Developer** 🇨🇷
 
 ## 🧑‍💻 About Me
 
-- 🎓 Software Engineering student focused on building solid, scalable solutions.
-- 🔍 Passionate about algorithms, data structures, and system design.
-- 📱 I'm passionate about learning new technologies every day, and I continuously build personal projects to sharpen my backend and database skills.
-- 💡 I firmly believe that pressure and mistakes are opportunities for growth — every challenge shapes me into a better software developer.
+- 🎓 Software Engineering student at **UTN**
+- 🔍 Interested in algorithms, data structures, and system design
+- 🛠️ Building personal projects to strengthen my **backend** and **database** skills
+- 💡 Every challenge is a chance to grow
 
----
+<br clear="right"/>
 
-## 🛠️ Technologies & Tools
+:fire: **Languages and Tools:**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,github,vscode,visualstudio" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" title="Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"></code>
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WGuillenDev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WGuillenDev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<a href="https://github.com/WGuillenDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WGuillenDev&show_icons=true&theme=radical" alt="WGuillenDev's GitHub stats" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WGuillenDev&theme=tokyonight&hide_border=true" />
-</p>
+<br/><br/>
+<a href="https://github.com/WGuillenDev">
+  <img align="center" src="https://streak-stats.demolab.com/?user=WGuillenDev&theme=radical" alt="WGuillenDev's streak" />
+</a>
 
----
-
-## 🌐 Languages
-
-- 🇨🇷 Spanish — Native
-- 🇺🇸 English — Intermediate
+<br/><br/>
+<a href="https://github.com/WGuillenDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WGuillenDev&langs_count=6&layout=compact&theme=radical" alt="Most Used Languages" />
+</a>
 
 ---
 
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-wilberthguillen.ing@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wilberthguillen.ing@gmail.com)
+<p align="left">
+  <a href="mailto:wilberthguillen.ing@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-wilberthguillen.ing%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/wilberth-guillermo-guillen-aguilar-428ab2409/">
+    <img src="https://img.shields.io/badge/LinkedIn-Wilberth%20Guill%C3%A9n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
