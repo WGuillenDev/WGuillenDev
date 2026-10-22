@@ -2,20 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Future+Full+Stack+Developer;Addicted+to+Coding!&font=Fira%20Code&color=00BFFF&center=true&width=420&height=60" alt="Typing SVG" />
 </h1>
 
-<img align="right" width="260" src="./assets/baymax.webp" alt="Baymax" />
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Wilberth+Guill%C3%A9n+Aguilar!;Nice+to+meet+you!&font=Fira%20Code&weight=600&size=22&color=58A6FF&width=460&height=45&pause=1500" alt="Hi, I'm Wilberth Guillén Aguilar!" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Wilberth+Guill%C3%A9n+Aguilar!;Nice+to+meet+you!&font=Fira%20Code&weight=600&size=22&color=58A6FF&width=600&height=45&pause=1500" alt="Hi, I'm Wilberth Guillén Aguilar!" />
 
 **Software Engineering Student | Junior Developer** 🇨🇷
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="260" src="./assets/baymax.webp" alt="Baymax" />
+
 - 🎓 Software Engineering student at **UTN**
 - 🔍 Interested in algorithms, data structures, and system design
 - 🛠️ Building personal projects to strengthen my **backend** and **database** skills
 - 💡 Every challenge is a chance to grow
-
-<br clear="right"/>
 
 :fire: **Languages and Tools:**
 
@@ -30,6 +28,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code>
+
+<br clear="right"/>
 
 ---
 
@@ -64,5 +64,4 @@
 
 ---
 
-<p align="center"><i>🔧 Building one commit at a time.</i></p>
 <p align="center"><b>"If you can imagine it, you can program it."</b></p>
